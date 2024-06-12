@@ -1,0 +1,2 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QRX-78-N(obel) is the first Gundam plastic model custom build and is the debut build for my alias, zeonzeoff.\\E$"}
+{"rule":"DID_FOUND_AMBIGUOUS","sentence":"^\\QI just tried not to break the bank so that I wouldn't resent my mistakes.\\E$"}
